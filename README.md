@@ -3,7 +3,9 @@
 A computer vision-driven virtual mouse and gesture-control system built in Python for macOS. Using real-time hand-landmark estimation via Google MediaPipe and OpenCV, this tool translates hand poses, finger joint extensions, and dynamic gestures into native OS-level cursor movements, mouse clicks, continuous scrolling, and multi-desktop space navigation.
 ## Demo
 
-*Above: Real-time demonstration showcasing cursor translation, pinch clicks, posture-based scrolling, and the open-palm to fist workspace swipe gesture.*
+https://github.com/user-attachments/assets/8bd920ac-48b3-4912-bbea-56a095d89d97
+
+Above: Real-time demonstration showcasing cursor translation, pinch clicks, posture-based scrolling, and the open-palm to fist workspace swipe gesture.*
 
 ## Features
 
